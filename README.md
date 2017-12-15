@@ -2,7 +2,7 @@
 
 A simple `package.json` listing out my goals for 2018.
 There's so much open source code out there, so why not open source our goals?!
-This way, we can hold ourself accountable (and be open about it lol get it???). 🙂
+This way, we can hold ourselves accountable (and be open about it lol get it???). 🙂
 Let's open source our goals!
 
 ---
