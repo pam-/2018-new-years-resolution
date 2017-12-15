@@ -9,4 +9,4 @@ TODOS:
 * Make a cli to update progress
 
 ---
-Inspried by [Pam Assogba](https://twitter.com/pam_yam/)
+Inspired by [Pam Assogba](https://twitter.com/pam_yam/)
