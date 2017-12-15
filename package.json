@@ -1,0 +1,38 @@
+{
+    "name": "clickclickonsal",
+    "description": "Sal's 2018 New Years Resoultion",
+    "author": "Sal Hernandez",
+    "version": "1.0.0-beta.2018",
+    "keywords": [
+        "clickclickonsal",
+        "new-years-resolution",
+        "goals"
+    ],
+    "license": "LIFE",
+    "scripts": {
+        "start": "node janurary-1st.js",
+        "test": "node am-i-on-track.js"
+    },
+    "goals": {
+        "six-pack-abs": "^0.0.1",
+        "make-more-money": "^0.0.1",
+        "travel-more": "^0.0.1",
+        "visit-family-in-dominican-republic": "^0.0.1",
+        "blog-more": "^0.0.1",
+        "attend-more-conferences": "^0.0.1",
+        "speak-at-conferences": "^0.0.1",
+        "contribute-more-to-open-source": "^0.0.1",
+        "make-improvements-to-my-house": "^0.0.1",
+        "learn-a-new-language": "^0.0.1",
+        "release-an-app-on-the-app-store": "^0.0.1"
+    },
+    "devDependencies": {
+        "sleep": "^1.0.0",
+        "eat": "^1.0.0",
+        "workout": "^1.0.0",
+        "code": "^1.0.0",
+        "money": "^1.0.0",
+        "relationship": "^1.0.0",
+        "work-hard": "^1.0.0"
+    }
+}
