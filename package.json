@@ -1,10 +1,10 @@
 {
-    "name": "clickclickonsal",
-    "description": "Sal's 2018 New Years Resolutions",
-    "author": "Sal Hernandez",
+    "name": "pam_yam",
+    "description": "Pam's 2018 New Years Resolutions",
+    "author": "Pam Assogba",
     "version": "1.0.0-beta.2018",
     "keywords": [
-        "clickclickonsal",
+        "pam_yam",
         "new-years-resolution",
         "goals"
     ],
@@ -14,17 +14,18 @@
         "test": "node am-i-on-track.js"
     },
     "goals": {
-        "six-pack-abs": "^0.0.1",
-        "make-more-money": "^0.0.1",
-        "travel-more": "^0.0.1",
-        "visit-family-in-dominican-republic": "^0.0.1",
-        "blog-more": "^0.0.1",
-        "attend-more-conferences": "^0.0.1",
-        "speak-at-conferences": "^0.0.1",
-        "contribute-more-to-open-source": "^0.0.1",
-        "make-improvements-to-my-house": "^0.0.1",
-        "learn-a-new-language": "^0.0.1",
-        "release-an-app-on-the-app-store": "^0.0.1"
+        "four-pack-abs": "^0.0.1",
+        "grow-passive-income-stream": "^0.0.1",
+        "fear-less": "^0.0.1",
+        "go-to-roland-garros": "^0.0.1",
+        "meal-prep-every-sunday": "^0.0.1",
+        "a-book-a-week": "^0.0.1",
+        "1/3-in-spanish": "^0.0.1",
+        "1/3-in-french": "^0.0.1",
+        "teach-yoga": "^0.0.1",
+        "go-to-morocco": "^0.0.1",
+        "get-monthly-massage": "^0.0.1",
+        "launch-code-video-series": "^0.0.1"
     },
     "devDependencies": {
         "sleep": "^1.0.0",
@@ -32,7 +33,7 @@
         "workout": "^1.0.0",
         "code": "^1.0.0",
         "money": "^1.0.0",
-        "relationship": "^1.0.0",
+        "relationships": "^1.0.0",
         "work-hard": "^1.0.0"
     }
 }
